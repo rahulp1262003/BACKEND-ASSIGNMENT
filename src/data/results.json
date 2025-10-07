@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ava Patel",
+    "role": "Head of Growth",
+    "company": "FlowMetrics",
+    "intent": "High",
+    "score": 80,
+    "reasoning": "Ava's role as Head of Growth at a B2B SaaS company, focused on scaling, perfectly aligns with AI Outreach Automation's promise of increased meetings and 24/7 outreach for B2B SaaS mid-market."
+  },
+  {
+    "name": "Raj Sharma",
+    "role": "Marketing Manager",
+    "company": "TechNova",
+    "intent": "High",
+    "score": 70,
+    "reasoning": "The lead's role as a Marketing Manager and self-description as a 'B2B growth expert' strongly align with the offer's value propositions of AI outreach for more meetings, despite the company being Fintech rather than explicitly SaaS mid-market."
+  },
+  {
+    "name": "Sara Khan",
+    "role": "Product Lead",
+    "company": "DataWorks",
+    "intent": "Medium",
+    "score": 50,
+    "reasoning": "The lead's company industry (B2B SaaS) aligns with the offer's ideal use case, but a Product Lead's role is not directly responsible for sales outreach automation, reducing direct buying intent."
+  },
+  {
+    "name": "John Doe",
+    "role": "CEO",
+    "company": "InnovateX",
+    "intent": "High",
+    "score": 80,
+    "reasoning": "As CEO of a B2B SaaS company engaged in digital transformation, John Doe is an ideal strategic buyer for AI outreach automation, directly aligning with the offer's value of increasing meetings and efficiency for a target industry."
+  },
+  {
+    "name": "Emily Chen",
+    "role": "Sales Executive",
+    "company": "Cloudify",
+    "intent": "High",
+    "score": 60,
+    "reasoning": "Emily's Sales Executive role at B2B SaaS 'Cloudify' and explicit focus on 'SaaS client acquisition' perfectly align with the 'AI Outreach Automation' offer's value of generating more meetings."
+  }
+]

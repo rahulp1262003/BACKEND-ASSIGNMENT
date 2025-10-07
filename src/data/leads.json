@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ava Patel",
+    "role": "Head of Growth",
+    "company": "FlowMetrics",
+    "industry": "B2B SaaS",
+    "location": "India",
+    "linkedin_bio": "Helps scale SaaS brands"
+  },
+  {
+    "name": "Raj Sharma",
+    "role": "Marketing Manager",
+    "company": "TechNova",
+    "industry": "Fintech",
+    "location": "India",
+    "linkedin_bio": "B2B growth expert"
+  },
+  {
+    "name": "Sara Khan",
+    "role": "Product Lead",
+    "company": "DataWorks",
+    "industry": "B2B SaaS",
+    "location": "USA",
+    "linkedin_bio": "Leading product innovation"
+  },
+  {
+    "name": "John Doe",
+    "role": "CEO",
+    "company": "InnovateX",
+    "industry": "B2B SaaS",
+    "location": "UK",
+    "linkedin_bio": "Leads digital transformation projects"
+  },
+  {
+    "name": "Emily Chen",
+    "role": "Sales Executive",
+    "company": "Cloudify",
+    "industry": "Cloud Services",
+    "location": "Singapore",
+    "linkedin_bio": "Focus on SaaS client acquisition"
+  }
+]

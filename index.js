@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 import cors from "cors";
 import offerRoutes from "./src/routes/offerRoutes.js";
 import leadRoutes from "./src/routes/leadRoutes.js";
-
+import scoreRoutes from "./src/routes/scoreRoutes.js";
 dotenv.config();
 
 const app = express();
@@ -13,6 +13,7 @@ app.use(cors());
 
 app.use("/offer", offerRoutes);
 app.use("/leads", leadRoutes);
+app.use("/score", scoreRoutes);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
