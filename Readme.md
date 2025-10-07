@@ -45,7 +45,7 @@ GEMINI_API_KEY=your_api_key_here
 
 ### 4️⃣ Run the Server
 ```bash
-npm run dev
+npm start
 ```
 Server will start at **http://localhost:5000** 🚀
 
