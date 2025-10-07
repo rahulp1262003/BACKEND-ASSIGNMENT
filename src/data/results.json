@@ -5,7 +5,7 @@
     "company": "FlowMetrics",
     "intent": "High",
     "score": 80,
-    "reasoning": "Ava's role as Head of Growth in a B2B SaaS company perfectly aligns with the AI Outreach Automation offer to scale brand growth and generate more meetings, directly matching the ideal use case."
+    "reasoning": "The Head of Growth role at a B2B SaaS company focused on scaling directly aligns with the AI Outreach Automation offer's value propositions of increasing meetings and 24/7 outreach."
   },
   {
     "name": "Raj Sharma",
@@ -13,7 +13,7 @@
     "company": "TechNova",
     "intent": "Medium",
     "score": 50,
-    "reasoning": "The Marketing Manager role and 'B2B growth expert' bio strongly align with the offer's value propositions for outreach automation, though the company's Fintech industry isn't an exact match for the B2B SaaS mid-market ideal use case."
+    "reasoning": "Raj's Marketing Manager role and B2B growth expertise align with the need for automated outreach to generate meetings, though TechNova's mid-market B2B SaaS fit requires further confirmation."
   },
   {
     "name": "Sara Khan",
@@ -21,7 +21,7 @@
     "company": "DataWorks",
     "intent": "Low",
     "score": 30,
-    "reasoning": "The lead's role as Product Lead, focused on innovation, does not directly align with the sales/marketing function of AI outreach automation, despite the company being in the target B2B SaaS industry; company size is unknown."
+    "reasoning": "AI request failed (fallback)."
   },
   {
     "name": "John Doe",
@@ -29,7 +29,7 @@
     "company": "InnovateX",
     "intent": "High",
     "score": 80,
-    "reasoning": "The CEO's focus on digital transformation in a B2B SaaS company perfectly aligns with AI Outreach Automation's goal of improving efficiency and generating more meetings for a mid-market target."
+    "reasoning": "The CEO of a B2B SaaS company actively leading digital transformation projects perfectly aligns with AI outreach automation designed for mid-market, indicating a strong strategic interest in scaling outreach and increasing meetings."
   },
   {
     "name": "Emily Chen",
@@ -37,6 +37,6 @@
     "company": "Cloudify",
     "intent": "High",
     "score": 60,
-    "reasoning": "Emily's role as a Sales Executive focused on SaaS client acquisition perfectly aligns with the AI Outreach Automation offer's goal of generating more meetings, indicating a strong direct need."
+    "reasoning": "Emily's role as a Sales Executive focused on SaaS client acquisition in a Cloud Services company perfectly aligns with the AI Outreach Automation's goal of generating more meetings for B2B SaaS mid-market."
   }
 ]

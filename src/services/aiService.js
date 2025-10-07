@@ -34,7 +34,7 @@ ${JSON.stringify(offer, null, 2)}
 LEAD:
 ${JSON.stringify(lead, null, 2)}
 `;
-        console.log("Sending prompt to Gemini:", prompt);
+        // console.log("Sending prompt to Gemini:", prompt);
 
         // The generateContent method sends the request to the Gemini API
         const response = await ai.models.generateContent({
@@ -48,10 +48,7 @@ ${JSON.stringify(lead, null, 2)}
             }
         });
 
-        console.log("Gemini response:", response);
-
         const text = response.text.trim();
-        console.log("Gemini text:", text);
 
         try {
             return JSON.parse(text);

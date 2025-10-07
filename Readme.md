@@ -55,7 +55,24 @@ Server will start at **http://localhost:5000** 🚀
 
 | Method | Endpoint | Description |
 |--------|-----------|-------------|
-| `POST` | `/leads/offer` | Run scoring on uploaded leads. |
+| `POST` | `/offer` | Run scoring on uploaded leads. |
+| `POST` | `/leads/upload` | Upload leads CSV |
+| `POST` | `/score` | Run AI + rule scoring |
+| `GET` | `/score/results` | Fetch all scored leads |
+
+---
+
+## 🌐 Live API Base URL
+The backend is deployed on **Render** and available at:  
+👉 **https://backend-assignment-266f.onrender.com**
+
+---
+
+## 🧪 Example Endpoints
+
+| Method | Endpoint | Description |
+|---------|-----------|-------------|
+| `POST` | `/offer` | Run scoring on uploaded leads. |
 | `POST` | `/leads/upload` | Upload leads CSV |
 | `POST` | `/score` | Run AI + rule scoring |
 | `GET` | `/score/results` | Fetch all scored leads |
